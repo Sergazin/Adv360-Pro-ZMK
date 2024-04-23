@@ -81,7 +81,7 @@
         layer_Moused {
             bindings = <
  &trans   &trans   &trans   &trans   &trans  &trans            &trans                                                  &trans  &trans   &trans   &trans   &trans   &trans  &trans
- &trans  &kp F17  &kp F13  &kp F18  &kp F23  &trans            &trans                                                  &trans  &trans   &trans   &trans   &trans   &trans  &trans
+ &trans  &kp F17  &kp F13  &kp F18  &kp F23  &trans            &trans                                                  &trans  &trans   &kp F7   &kp F8   &trans   &trans  &trans
  &trans  &kp F14  &kp F15  &kp F16  &kp F24  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &kp F19  &kp F20  &kp F21  &kp F22  &trans
  &trans   &trans   &trans   &trans   &trans  &trans                            &trans                  &trans                  &trans   &trans   &trans   &trans   &trans  &trans
  &trans   &trans   &trans   &trans   &trans                    &trans  &trans  &trans                  &trans  &trans  &trans           &trans   &trans   &trans   &trans  &trans
