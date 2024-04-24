@@ -85,7 +85,7 @@
  &trans  &kp KP_N5  &kp KP_N8     &kp F3    &kt K_SCROLL_UP  &trans            &trans                                                  &trans  &trans     &kp F7     &kp F8     &trans     &trans  &trans
  &trans  &kp KP_N4  &kp KP_N2  &kp KP_N6  &kt K_SCROLL_DOWN  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &kp KP_N1  &kp KP_N3  &kp KP_N7  &kp KP_N9  &trans
  &trans     &trans     &trans     &trans             &trans  &trans                            &trans                  &trans                  &trans     &trans     &trans     &trans     &trans  &trans
- &trans     &trans     &trans     &trans             &trans                    &trans  &trans  &trans                  &trans  &trans  &trans             &trans     &trans     &trans     &trans  &trans
+ &trans     &trans     &trans     &trans             &trans                    &trans  &trans  &trans                  &trans  &trans  &trans            &kp F24     &trans     &trans     &trans  &trans
             >;
         };
 
